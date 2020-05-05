@@ -1,2 +1,2 @@
 # gitdemo
-Demo of get 
+Demonstration of git commands
